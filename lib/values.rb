@@ -8,5 +8,5 @@ groceries = {
 }
 
 def get_the_values(groceries)
-  value.keys
+  groceries.values 
 end
